@@ -38,9 +38,9 @@ FishBarColorTolerance := 4
 
 ; Click Mode Settings
 ShakeDelay := 100
-ShakeBypassCounter := 10
-ShakeFailedCounter := 50
-ShakeColorTolerance := 5
+ShakeBypassCounter := 1000
+ShakeFailedCounter := 1000
+ShakeColorTolerance := 1000
 
 ; UI Navigation Settings
 NavKeyDelay := 50
